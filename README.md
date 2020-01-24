@@ -7,27 +7,28 @@ It has won the Cricket World Cup twice – in 1983 under the captaincy of Kapil 
 ## Assocation
 ![logo](https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/200px-Cricket_India_Crest.svg.png)
 * image url credit:https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/200px-Cricket_India_Crest.svg.png
+
 ###  Board of Control for Cricket in India (BCCI)
 The Board of Control for Cricket in India (BCCI) is the national governing body for cricket in India. The board was formed in December 1928 as a society, registered under the Tamil Nadu Societies Registration Act. It is a consortium of state cricket associations and the state associations select their representatives who in turn elect the BCCI Chief. Its headquarters are in Wankhede Stadium, Mumbai. 
  
 ## Players
- * Virat Kohli(captain)
- * Rohit Sharma(vice captain)
- * MS Dhoni
- * Hardik Pandya
- * K L Rahul
- * Jasprit Bumrah
- * Ravindra Jadeja
- * Bhuvaneshwar Kumar
- * Rishab Pant
- * Dinesh Karthik
- * Kedar Jadhav
+* Virat Kohli(captain)
+* Rohit Sharma(vice captain)
+* MS Dhoni
+* Hardik Pandya
+* K L Rahul
+* Jasprit Bumrah
+* Ravindra Jadeja
+* Bhuvaneshwar Kumar
+* Rishab Pant
+* Dinesh Karthik
+* Kedar Jadhav
  
 ## Coaches
- 1. Ravi Shastri
- 2. Vikram Rathour
- 3. Bharat Arun
- 4. Ramakrishnan Sridhar
+1. Ravi Shastri
+2. Vikram Rathour
+3. Bharat Arun
+4. Ramakrishnan Sridhar
  
 ## References
 [ICC](https://www.icc-cricket.com/rankings/mens/overview)
